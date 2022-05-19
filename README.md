@@ -1,8 +1,6 @@
 # Static and Media Files in Django
 
-Example repo for the [Working with Static and Media Files in Django](https://testdriven.io/blog/django-static-files/) article.
-
-## Getting Started
+## Setup
 
 1. Clone down the repo
 1. Create and activate a virtual environment
