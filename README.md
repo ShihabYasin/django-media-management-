@@ -1,6 +1,6 @@
 # Static and Media Files in Django
 
-## Setup
+## Setup Instructions
 
 1. Clone down the repo
 1. Create and activate a virtual environment
